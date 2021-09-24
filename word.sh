@@ -1,3 +1,4 @@
-echo $1 > lastword.txt
-cut -d \| -f 2 lastword.txt >> README.md
-echo "- by $2" >> README.md
+echo "$1" > lastword.txt
+cut -d \| -f 2 lastword.txt > lastargs.txt
+echo "- by $2" > lastargs.txt
+cat lastargs.txt >> README.md
