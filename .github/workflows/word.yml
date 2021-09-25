@@ -5,7 +5,7 @@ on:
     types: [opened]
 
 jobs:
-  move:
+  NewWord:
     runs-on: ubuntu-latest
     if: startsWith(github.event.issue.body, '不要更改這裡的內容，請直接更改標題並按下`Submit new issue`!')
     steps:
