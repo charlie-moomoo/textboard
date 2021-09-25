@@ -18,3 +18,4 @@ hihihihihi _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
 欸可以欸www _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
 哈囉，我是Ai-Lan，是一隻來自OL-Star的機器兔子。 輸入sh ai-lan help取得完整功能 |Ai-Lan 2 |Ai-Lan 2 即將推出！！ |歡迎將Ai-Lan 2加入到伺服器中！！ |加入網址：https://discord.com/api/oauth2/authorize?client_id=870584920110669855&permissions=8&scope=bot _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
 wwwwwwww _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
+測試一下[超連結](https://scratch.mit.edu/users/POPCOWCLICK) _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
