@@ -18,3 +18,10 @@ hihihihihi - by charlie-moomoo
 話說我想來測試一個東西 - by charlie-moomoo
 02:28:23 - by charlie-moomoo
 欸可以欸www - by charlie-moomoo
+哈囉，我是Ai-Lan，是一隻來自OL-Star的機器兔子。
+輸入sh ai-lan help取得完整功能
+
+|Ai-Lan 2
+|Ai-Lan 2 即將推出！！
+|歡迎將Ai-Lan 2加入到伺服器中！！
+|加入網址：https://discord.com/api/oauth2/authorize?client_id=870584920110669855&permissions=8&scope=bot - by charlie-moomoo
