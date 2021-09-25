@@ -21,9 +21,11 @@ jobs:
         EVENT_USER_LOGIN: ${{ github.event.issue.user.login }}
       run: |
             sh word.sh "${{ github.event.issue.title }}" "${{ github.event.issue.user.login }}" 
+            gh auth login --with-token ${{ secrets.GITHUB_TOKEN }}
             git config --local user.email "kiwichang2017@gmail.com"
             git config --local user.name "charlie-moomoo"
             git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             git  add .
             git commit -m "增加${{ github.event.issue.user.login }}的文字：${{ github.event.issue.title }}"
             git push -u
+            gh issue close  https://github.com/charlie-moomoo/textboard/issues/${{ github.event.issue.number }}
