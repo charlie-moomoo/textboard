@@ -20,3 +20,4 @@ hihihihihi _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
 wwwwwwww _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
 測試一下[超連結](https://scratch.mit.edu/users/POPCOWCLICK) _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
 <a href="https://api.toastfriends.cf/">Permanent Redirect</a>. _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
+來試試圖片 ![CowToast](https://cdn2.scratch.mit.edu/get_image/project/513405076_282x210.png) _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
