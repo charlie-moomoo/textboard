@@ -7,6 +7,7 @@ on:
 jobs:
   move:
     runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.body, '不要更改這裡的內容，請直接更改標題並按下`Submit new issue`!')
     steps:
 
     - name: Checkout
@@ -19,7 +20,6 @@ jobs:
         EVENT_ISSUE_TITLE: ${{ github.event.issue.title }}
         EVENT_USER_LOGIN: ${{ github.event.issue.user.login }}
       run: |
-            echo ${{ github.event.issue.body }}
             sh word.sh "${{ github.event.issue.title }}" "${{ github.event.issue.user.login }}" 
             git config --local user.email "kiwichang2017@gmail.com"
             git config --local user.name "charlie-moomoo"
