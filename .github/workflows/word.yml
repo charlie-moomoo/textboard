@@ -7,7 +7,6 @@ on:
 jobs:
   move:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, '增加文字|')
     steps:
 
     - name: Checkout
