@@ -1,1 +1,1 @@
-嗨!歡迎使用吐司夥伴API！ 用法： https://api.toastfriends.cf/[類型]/[編號] 說明： [類型]為吐司夥伴和吐司圖鑑，代號分別是TF和TD [編號]為吐司編號 吐司夥伴API回傳內容： { "name":"[吐司名稱]", "introduction":"[吐司介紹]", "author":"[吐司作者名稱]" } 如果吐司是二創，則會回傳以下內容： { "name":"[吐司名稱]", "introduction":"[吐司介紹]", "author":"[吐司作者名稱]", "2ndauthor":"[吐司二創者名稱]" } 吐司圖鑑API回傳內容： { "name":{"zh":"[中文吐司名稱]","en":"[英文吐司名稱]"}, "introduction":{"zh":"[中文吐司介紹]","en":"[英文吐司介紹]"}, "author":"[吐司作者名稱]", "other":"[其他備註]" } 範例： https://api.toastfriends.cf/TF/001 回傳： { "name":"綠水靈吐司", "introduction":"綠水靈和吐司的融合體。", "author":"ben6499" } 玩的開心！
+
