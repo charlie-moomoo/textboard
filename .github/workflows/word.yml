@@ -19,7 +19,7 @@ jobs:
         EVENT_ISSUE_TITLE: ${{ github.event.issue.title }}
         EVENT_USER_LOGIN: ${{ github.event.issue.user.login }}
       run: |
-            echo ${{ github.event.issue.comment }}
+            echo ${{ github.event.issue.body }}
             sh word.sh "${{ github.event.issue.title }}" "${{ github.event.issue.user.login }}" 
             git config --local user.email "kiwichang2017@gmail.com"
             git config --local user.name "charlie-moomoo"
