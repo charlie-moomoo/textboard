@@ -31,3 +31,4 @@ jobs:
             git  add .
             git commit -m "增加@${{ github.event.issue.user.login }}的文字：${{ github.event.issue.title }}"
             git push -u
+            gh issue close https://github.com/charlie-moomoo/textboard/issues/${{ github.event.issue.number }}
