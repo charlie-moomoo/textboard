@@ -319,3 +319,5 @@ Usage: curl [options...] <url>
  -w, --write-out <format> Use output FORMAT after completion
      --xattr         Store metadata in extended file attributes - by charlie-moomoo
 笑死 - by charlie-moomoo
+哞~ - by LittleCow-moo
+哞 - by charlie-moomoo
