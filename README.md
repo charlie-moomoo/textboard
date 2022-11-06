@@ -51,3 +51,5 @@ What the hell _- by [@IceBrick01](https://github.com/IceBrick01)_<br>
  _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
  _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
 <idhguehg9uehr9ugh9uhgegeuhgetuheruhbfduhvhveruhver> _- by [@TLcut](https://github.com/TLcut)_<br>
+moo _- by [@LittleCow-moo](https://github.com/LittleCow-moo)_<br>
+hi _- by [@charlie-moomoo](https://github.com/charlie-moomoo)_<br>
